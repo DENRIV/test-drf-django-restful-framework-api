@@ -97,7 +97,9 @@ python manage.py test puppies.tests.test_models
 
 python manage.py test puppies.tests
 
-# 10 methods : test_*
+result
+
+10 methods : test_*
 
 
 [Source]
